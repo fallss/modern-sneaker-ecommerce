@@ -1,103 +1,105 @@
-<div id="top"></div>
+# modern-sneaker-ecommerce
 
-<br />
 <div align="center">
 
-<!-- 🔰 BADGES -->
-![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/footcap-shoes-website)
-![GitHub stars](https://img.shields.io/github/stars/codewith-salman/footcap-shoes-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewith-salman/footcap-shoes-website?style=social)
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://footcap-shoes-website.vercel.app/)
-
-[![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
-[![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
-[![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
+<img src="./assets/images/logo.svg" alt="Footcap Logo" width="160"/>
 
 <br />
 
-<!-- 🔰 PROJECT LOGO -->
-<img src="Footcap%20Shoes%20Website/assets/images/logo.svg" alt="FootCap Shoes Website Logo" width="120"/>
+# 👟 Modern Sneaker & Footwear eCommerce Platform
 
-<br />
-<br />
+An ultra-modern, high-performance, responsive footwear & sneaker boutique website built with **Vanilla HTML5, CSS3, and JavaScript**.
 
-<h1 align="center">👟 FootCap Shoes Website</h1>
-
-A stylish, modern, and fully responsive **eCommerce footwear website**  
-built using **HTML and CSS**.
-
-<a href="https://footcap-shoes-website.vercel.app/"><strong>➥ Live Demo</strong></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/fallss/modern-sneaker-ecommerce)
+[![Status](https://img.shields.io/badge/Status-Completed-success.svg)](#)
 
 </div>
 
 ---
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>📑 Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#features">Features</a></li>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+## ✨ Key Features
 
----
-
-## 📖 About The Project
-
-<img src="Footcap%20Shoes%20Website/assets/images/desktop.png" alt="FootCap Shoes Website Desktop Screenshot" width="100%" />
-
-The **FootCap Shoes Website** is a modern and responsive footwear eCommerce interface designed to showcase stylish shoe collections and create a professional online shopping experience.
-
-The layout focuses on:
-
-- 👟 Attractive footwear product presentation
-- 🛍️ Clean and modern eCommerce-style interface
-- 📱 Fully responsive layouts for different screen sizes
-- 🎨 Elegant typography, spacing, and visual hierarchy
-- ✨ Smooth scrolling and engaging visual interactions
-
-This project demonstrates the ability to build **fashion and eCommerce websites**, create visually appealing product-focused layouts, and deliver responsive interfaces with a polished user experience.
-
-Ideal for:
-
-- 👟 Shoe stores and footwear brands
-- 🛍️ eCommerce website concepts
-- 🎨 Fashion-focused landing pages
-- 💻 Front-end UI and responsive design practice
-
----
-
-## ✨ Features
-
-- Fully responsive footwear eCommerce layout
-- Modern and stylish user interface
-- Attractive product showcase sections
-- Clean typography and structured content
-- Responsive navigation and page sections
-- Smooth scrolling and visual interactions
+- 🌓 **Dark & Light Mode Switcher**: Seamless instant theme toggling with `localStorage` state persistence.
+- 🛍️ **Interactive Slide-Over Shopping Cart Drawer**: Dynamic cart calculations, live quantity adjusters (`+`/`-`), free shipping progress bar, and item deletion.
+- 🔍 **Instant Live Search Modal**: Real-time filtering overlay with search-as-you-type previews and keyboard navigation (`ESC` to close).
+- 👁️ **Quick View Product Modal**: Detailed pop-up with interactive EU shoe size selector (`40` - `45`), color swatches, stock indicators, and instant cart integration.
+- 🏷️ **Brand Filtering & Sorting Engine**: Smooth animated product filtering across world-class brands (*Nike, Adidas, Puma, Bata, Apex*) and multi-criteria sorting (*Price: Low to High, High to Low, Rating*).
+- ⚡ **Dual-Track Infinite Brand Marquee**: Continuous, seamless looping ticker featuring official global brand partners with smooth edge gradient fade masks.
+- ⏳ **Flash Sale Live Countdown Timer**: Real-time ticking countdown clock for promotional deals.
+- 📱 **100% Fully Responsive Design**: Flawlessly optimized across mobile devices, tablets, laptops, and ultra-wide desktop monitors (1920px+).
+- 💬 **Interactive Toast Notification System**: Floating visual toasts for add-to-bag, wishlist updates, and coupon copy events.
 
 ---
 
 ## 🛠️ Built With
 
-This project is built using:
-
-- **HTML5**
-- **CSS3**
+- **HTML5**: Semantic markup, accessible labels (`ARIA`), modern viewport controls.
+- **CSS3 (Vanilla)**: CSS custom properties / theme tokens, glassmorphism (`backdrop-filter`), CSS Grid & Flexbox layouts, cubic-bezier micro-animations.
+- **JavaScript (Vanilla ES6+)**: Modular application state engine, cart calculations, modal manager, event delegation.
+- **Google Fonts**: [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans) & [Outfit](https://fonts.google.com/specimen/Outfit).
+- **Icons**: [Ionicons](https://ionic.io/ionicons).
 
 ---
 
-## 📬 Contact
+## 🚀 Getting Started
 
-**Muhammad Salman Arshad**
+### Prerequisites
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-salmanarshad/
-- 🎨 **Figma:** https://www.figma.com/@codewithsalman
-- 📧 **Email:** [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+No build tools or package managers required! This project runs natively in any modern web browser.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+### Installation & Local Setup
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/fallss/modern-sneaker-ecommerce.git
+   ```
+
+2. **Navigate to the project folder**:
+   ```bash
+   cd modern-sneaker-ecommerce
+   ```
+
+3. **Open the website**:
+   - Double-click `index.html` to open it in your browser, OR
+   - Run a lightweight HTTP server:
+     ```bash
+     # Using Python
+     python3 -m http.server 3000
+     ```
+   - Visit `http://localhost:3000` in your browser.
+
+---
+
+## 📂 Project Structure
+
+```text
+modern-sneaker-ecommerce/
+│
+├── index.html                   # Main semantic HTML structure
+├── README.md                    # Project documentation
+├── LICENSE                      # MIT License
+│
+└── assets/
+    ├── css/
+    │   └── style.css            # Design system, theme tokens & animations
+    ├── js/
+    │   └── script.js            # State management, cart, modal & filter logic
+    └── images/                  # High-resolution product & brand imagery
+        ├── hero-sneaker-flagship.jpg
+        ├── product-1.jpg to product-8.jpg
+        ├── sponsor-1.png to sponsor-5.png
+        └── ...
+```
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See [LICENSE](LICENSE) for more details.
+
+---
+
+<div align="center">
+  Crafted with passion for modern sneaker culture. ⭐ Star this repo if you find it helpful!
+</div>

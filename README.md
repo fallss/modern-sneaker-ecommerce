@@ -14,6 +14,14 @@ An ultra-modern, high-performance, responsive footwear & sneaker boutique websit
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/fallss/modern-sneaker-ecommerce)
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)](#)
 
+<br />
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-brightgreen?style=for-the-badge&logo=vercel)](https://modern-sneaker-ecommerce.vercel.app/)
+
+<br />
+
+🔗 **Live Demo:** [https://modern-sneaker-ecommerce.vercel.app/](https://modern-sneaker-ecommerce.vercel.app/)
+
 </div>
 
 ---
@@ -43,6 +51,11 @@ An ultra-modern, high-performance, responsive footwear & sneaker boutique websit
 ---
 
 ## 🚀 Getting Started
+
+### 🌐 Live Demo
+
+You can interact with the live deployed website directly at:  
+👉 **[https://modern-sneaker-ecommerce.vercel.app/](https://modern-sneaker-ecommerce.vercel.app/)**
 
 ### Prerequisites
 
